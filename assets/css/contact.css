@@ -1,4 +1,30 @@
-p {
-    font: italic;
-    color: red;
+.container {
+    display: flex;
+    justify-content: center;
+ 
+ }
+ 
+ 
+ section {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 20px;
+    margin-left: 20px;
+    max-width: 960px;
+    min-width: 500px;
+    border: 1px black solid;
+    min-height: 500px;
+ }
+ 
+ section h1 {
+    padding: 60px;
+ }
+ 
+ 
+ nav {
+    border-bottom: black solid;
+ }
+ 
+section form {
+    padding: 50px;
 }

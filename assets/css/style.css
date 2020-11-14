@@ -13,3 +13,30 @@ h1 {
    font-style: italic;
 
 }
+
+main {
+   display: flex;
+   justify-content: center;
+
+}
+
+section {
+   margin-top: 50px;
+   margin-bottom: 50px;
+   width: 1000px;
+   border: 1px black solid;
+   min-height: 800px;
+}
+
+section h1 {
+   padding: 20px;
+}
+
+section p img {
+   padding: 20px;
+
+}
+
+nav {
+   border-bottom: black solid;
+}
