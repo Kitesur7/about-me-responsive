@@ -1,3 +1,7 @@
+nav {
+   border-bottom: black solid;
+}
+
 .container {
     display: flex;
     justify-content: center;
@@ -21,9 +25,7 @@
  }
  
  
- nav {
-    border-bottom: black solid;
- }
+
  
 section form {
     padding: 50px;
